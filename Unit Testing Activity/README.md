@@ -1,1 +1,2 @@
 # Unit Testing Activity
+In the unit testing activity, we were assigned an amount of tasks that would respond to names of people when the function was called depending on the type of the variable called into the function. We used the day's lesson of testing to complete this lesson.

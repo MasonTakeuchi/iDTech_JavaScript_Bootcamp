@@ -1,2 +1,1 @@
 # JavaScript Bootcamp
-In the unit testing activity, we were assigned an amount of tasks that would respond to names of people when the function was called. We used the day's lesson of testing to complete this lesson.
