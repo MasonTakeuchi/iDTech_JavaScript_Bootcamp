@@ -1,1 +1,2 @@
 # Project Pt 2 - PacMen Factory Activity
+For the second pacman project, we were checking whether the pacman hit any side of the creen, then the code would switch the velocity, position and direction of the pacman.

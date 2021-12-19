@@ -1,1 +1,2 @@
 # Project Pt 1 - PacMan Activity
+For the first pacman project, we were using code to check whether the pacman image had hit the sides of the window and if it had, then it would switch the velocity and image direction
