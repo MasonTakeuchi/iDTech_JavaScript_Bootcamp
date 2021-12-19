@@ -1,2 +1,2 @@
 # Creating Sentences Activity
-The task in the creatimg sentences activity was to create an array variable called "words" with the following elements: 'This', 'is', 'JavaScript', 'Bootcamp!' I put the words in an array and then used the function to find how many words were in the array, and then added them together in a variable called sentences.
+The task in the creatimg sentences activity was to create an array variable called "words" with the following elements: 'This', 'is', 'JavaScript', 'Bootcamp!' I put the words in an array and then used the .length method to find how many words were in the array, and then added them together in a variable called sentences.
