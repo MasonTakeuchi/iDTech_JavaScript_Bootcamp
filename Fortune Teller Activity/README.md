@@ -1,2 +1,2 @@
 # Fortune Teller Activity
-In the fortune teller activity
+In the fortune teller activity, we were meant to give a number to three if statements which, depending on the amount of the number, would tell whether the fortune was bad, neutral, or good.
