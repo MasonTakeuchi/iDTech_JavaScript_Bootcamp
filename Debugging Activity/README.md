@@ -1,2 +1,2 @@
 # Debugging Activity
-In the debugging activity, we were given a full file which had a few bugs that we were required to go through and fix. This activity 
+In the debugging activity, we were given a full file which had a few bugs that we were required to go through and fix. This activity tested our ablility to actually locate the issue and fix it. Arrays and for loops were two of the things that were tested in this project.
